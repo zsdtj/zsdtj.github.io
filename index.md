@@ -5,7 +5,6 @@ title: 这，是一只青蛙的故事
 {% include JB/setup %}
 
 ![湖蛙](RanaRidibundaFemale.jpg)
-![解剖图](Frog_anatomy_tags.jpg)
 
 　　梁盈豪（2000年5月31日-2014年9月13日），字淫蛙，广东湛江蛙。  
 　　死于蛙跳下山时撞上了不明物体。  

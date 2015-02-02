@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 这，是一只青蛙的故事
+title: Can you see a 蛙man？
 ---
 {% include JB/setup %}
 

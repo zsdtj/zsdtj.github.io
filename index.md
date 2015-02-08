@@ -2,7 +2,6 @@
 layout: page
 title: 这，是一只青蛙的故事
 ---
-{% include JB/setup %}
 
 ![https://commons.wikimedia.org/wiki/File:Cooked_Frog_2.jpg](Cooked_Frog_2.jpg)
 

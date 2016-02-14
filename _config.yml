@@ -2,7 +2,7 @@
 title: 2015届深圳实验学校初中部10班的地方
 description: 这，是我们的故事
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://lyfrog.com/" # the base hostname & protocol for your site
+url: "https://lyfrog.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
